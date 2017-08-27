@@ -1,0 +1,76 @@
+.zone-content-wrapper {
+  width: auto;
+  background: #fff;
+  box-shadow: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#v2front-photos-pane {
+  border-style: solid;
+  border-width: 2px;
+  height: 450px;
+}
+
+#v2front-calendar-pane {
+  background-color: #d1a3c7;
+  height: 100px;
+}
+
+#v2front-ethicsInAction-pane {
+  height: 350px;
+}
+
+#v2front-monthlyAction-pane {
+  background-color: #c9cfe2;
+  height: 100px;
+}
+
+#v2front-sundayMeetings-pane {
+  background-color: #c9cfe2;
+}
+
+#v2front-upcomingEvents-pane {
+  background-color: #f4e8a8;
+}
+
+#v2front-whatsNew-pane {
+}
+
+#v2front-forums-pane {
+  background-color: #f4e8a8;
+}
+
+#v2front-atTheCafe-pane {
+}
+
+#v2front-videos-pane {
+  background-color: #c9cfe2;
+}
+
+.v2front-view-panes {
+  height: 750px;
+}
+
+.v2front-view-panes h2 {
+  background-color: rgb(41, 130, 194);
+  font-size: 16pt; 
+  font-family: Calibri; 
+  font-weight: 700; 
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.v2front-event-titles {
+  font-size: 14pt; 
+  font-family: Calibri; 
+  font-weight: 700; 
+}
+
+.v2front-event-calendarLinks {
+  font-size: 14pt; 
+  font-family: Calibri; 
+  font-weight: 700; 
+  text-align: center;
+  vertical-align: bottom;
+}
